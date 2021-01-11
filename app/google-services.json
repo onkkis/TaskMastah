@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144776379060",
+    "project_id": "taskmastah-7af25",
+    "storage_bucket": "taskmastah-7af25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144776379060:android:5412bb46e86de0a1ecf5e1",
+        "android_client_info": {
+          "package_name": "com.example.taskmastah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144776379060-evde9mag0jhub41s3m1f2tut3lo42anu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOCmYLSzu2zSH32f50BpwfqJ0DvUWT7tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144776379060-evde9mag0jhub41s3m1f2tut3lo42anu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
